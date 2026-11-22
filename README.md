@@ -87,7 +87,7 @@ An area chart identifying weekly demand patterns from **Monday to Sunday**:
 3. **Unserved Call Recovery:** Investigate the **~0.9K "Not Served"** calls to determine whether queue routing rules or callback automation can recapture lost customer interactions.
 
 
-
+![Call Centre Trends Dashboard](https://github.com/rahulrayDA/Call-Center-Project/blob/main/Call%20Center%20Project%20Snapshot.png?raw=true)
 
 
 
